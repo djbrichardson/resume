@@ -7,13 +7,13 @@ Erie, CO • 720-419-5539 • [dj.b.richardson@pm.me](mailto:dj.b.richardson@pm.
 
 ---
 
-## Core Skills
+## Skilled Platforms and Tools
 
-| Tools & Platforms                                    | Leadership & Impact                   |
+|                                  |                  |
 |------------------------------------------------------|---------------------------------------|
-| **CI/CD & IaC:** GitLab, ArgoCD, Terraform, Ansible  | Cross-Functional Leadership         |
-| **Containers & Orchestration:** Docker, Helm, Kubernetes | Stakeholder Communication & Mentorship|
-| **Cloud:** AWS, DigitalOcean, Civo                             | Project & Product Ownership           |
+| **CI/CD & IaC:** GitLab, ArgoCD, Terraform, Ansible  | **Atlassian:** Jira, Confluence, Zephyr      |
+| **Containers & Orchestration:** Docker, Helm, Kubernetes | **OS:** Linux (RHEL 7/8), Windows 8-12|
+| **Cloud & IaaS:** AWS(EC2, EKS), vmWare(vSphere, VCF)  | **Languages:** C/C++, Python, SQL, Javascript          |
 
 
 ---
@@ -21,23 +21,23 @@ Erie, CO • 720-419-5539 • [dj.b.richardson@pm.me](mailto:dj.b.richardson@pm.
 ## Experience
 
 ### Lockheed Martin | DevSecOps Engineer – Product Owner of Site Reliability (2020–Present)
-- Lead DevSecOps team strategy, priorities, and execution for mission-critical ground systems.  
+- Lead Agile DevSecOps team strategy, priorities, and execution for mission-critical ground systems.  
 - Established Site Reliability Engineering (SRE) subteam, standards, and incident readiness.  
 - Deployed microservices with Helm/Ansible on K8s; automated provisioning on AWS and vSphere.  
-- Designed CI/CD pipelines, GitOps workflows, and automated TLS lifecycle management.  
-- Created design and install docs for Space-to-Ground sites; coordinated across HW/SW/NW teams.
+- Designed CI/CD Terraform/Helm pipelines, maintained Git & binary artifact repositories.  
+- Architect design and install docs for Space-to-Ground sites; coordinated across HW/SW/NW teams.
 
-### Promethean Hive LLC | Founder, DevOps & Full-Stack Engineer (2023–Present)
-- Full-stack ownership: React/TypeScript frontend, Django Python backend, PostgreSQL DB.  
-- Integrated API suite; cloud-native CI/CD via Terraform, Kubernetes, and GitOps.  
+### Promethean Hive | DevOps & Full-Stack Engineer (2023–Present)
+- Developed and maintained React/TypeScript frontend, Django Python backend, PostgreSQL DB.  
+- Developed API suite, cloud-native CI/CD via Terraform, Kubernetes, and GitOps workflows.  
 
 ### Audit Logistics | Senior Project Manager (2013–2018)
-- Directed teams completing 75–95 projects annually, $1.5M budgets, 5M+ lbs. shipments.
+- Led a team through ~95 Agile projects annually, using proprietary auditing SW for data tracing 
 
 ---
 
 ## Education & Certificates
-- **Dual M.S. Computer Science & Engineering Management** (in progress), Univ. of CO. Boulder  
+- **Dual M.S. Computer Science & Engineering Management**, Univ. of CO. Boulder (in progress)
 - **B.S. Computer Science**, Univ. of CO. Boulder  
 ---
 - **TS/SCI Clearance (Active)**  
