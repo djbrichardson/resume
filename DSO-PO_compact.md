@@ -27,7 +27,7 @@ Erie, CO • 720-419-5539 • [dj.b.richardson@pm.me](mailto:dj.b.richardson@pm.
 - Designed CI/CD Terraform/Helm pipelines, maintained Git & binary artifact repositories.  
 - Architect design and install docs for Space-to-Ground sites; coordinated across HW/SW/NW teams.
 
-### Promethean Hive | DevOps & Full-Stack Engineer (2023–Present)
+### Promethean Hive | DevOps & Full-Stack Engineer (2023–Present) [https://demo.experiencebylocals.com](https://demo.experiencebylocals.com)
 - Developed and maintained React/TypeScript frontend, Django Python backend, PostgreSQL DB.  
 - Developed API suite, cloud-native CI/CD via Terraform, Kubernetes, and GitOps workflows.  
 
