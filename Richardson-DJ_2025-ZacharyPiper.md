@@ -10,7 +10,7 @@ Erie, CO • 720-419-5539 • [dj.b.richardson@pm.me](mailto:dj.b.richardson@pm.
 
 |                                  |                  |
 |------------------------------------------------------|---------------------------------------|
-| **CI/CD & IaC:** GitLab, ArgoCD, Terraform, Ansible  | **Atlassian:** Jira, Confluence, Zephyr      |
+| **CI/CD & IaC:** GitHub/Lab, ArgoCD, Terraform, Ansible  | **Atlassian:** Jira, Confluence, Zephyr      |
 | **Containers & Orchestration:** Docker, Helm, Kubernetes | **OS:** Linux (RHEL 7/8), Windows 8-12|
 | **Cloud & IaaS:** AWS(EC2, EKS), vmWare(vSphere, VCF)  | **Languages:** C/C++, Python, SQL, Javascript          |
 
